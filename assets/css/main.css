@@ -4823,7 +4823,7 @@ a img {
 #particles-js {
     background: #1488CC;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);
+    background: -webkit-linear-gradient(to right, #000000, #1e1e1e);
     /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #000000, #1e1e1e);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -4840,7 +4840,7 @@ a img {
 #particles-js2 {
     background: #1488CC;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);
+    background: -webkit-linear-gradient(to right, #000000, #1e1e1e);
     /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #000000, #1e1e1e);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
